@@ -1,0 +1,27 @@
+/* 
+int
+string
+[]int
+[]string
+binary
+
+constant
+
+function (int a, string b) : {T} {
+
+}
+
+if (a > c) : {
+
+} else : {
+
+}
+
+for (int i, i< n, i++) {
+
+}
+
+while (x > y) {
+
+}
+ */
