@@ -1,1 +1,1 @@
-# sparkle
+Language interpreter implementation based on te book "Writing An Interpreter In Go" first, custom interpreted language implementation after finishing building the interpreter from the book

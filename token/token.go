@@ -54,6 +54,7 @@ var keywords = map[string]TokenType{
 	"if":       IF,
 	"else":     ELSE,
 	"return":   RETURN,
+	"const":    CONST,
 }
 
 // Get keyword or identity
