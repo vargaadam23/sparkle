@@ -26,7 +26,7 @@ type LetStatement struct {
 	Value Expression
 }
 
-func (ls *LetStatement) statementNode()
+func (ls *LetStatement) statementNode() {}
 func (ls *LetStatement) TokenLiteral() string {
 	return ls.Token.Literal
 }
@@ -36,7 +36,7 @@ type Identifier struct {
 	Value string
 }
 
-func (ident *Identifier) expressionNode()
+func (ident *Identifier) expressionNode() {}
 func (ident *Identifier) TokenLiteral() string {
 	return ident.Token.Literal
 }
